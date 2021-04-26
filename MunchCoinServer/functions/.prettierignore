@@ -1,0 +1,13 @@
+lib/
+node_modules/
+
+.eslintrc.js
+.eslintrc.json
+.firebaserc
+.glcoudignore
+.gitignore
+firebase.json
+tsconfig.dev.json
+tsconfig.json
+yarn.lock
+yarn-error.log
